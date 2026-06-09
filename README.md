@@ -1,4 +1,4 @@
-# Git & GitHub Mastery 🚀
+# Git & GitHub Mastery 🚀🚀
 
 A complete learning journey covering Git and GitHub from beginner to advanced level.
 
